@@ -1,0 +1,27 @@
+/* 
+
+. ==> class
+# ==> id
+li ==> etiqueta 
+
+*/
+* {
+  margin: 0;
+  /* padding: 0; */
+}
+
+#nav-li-home {
+  color: red;
+  background-color: black;
+  max-width: max-content;
+}
+
+.nav-item {
+  display: inline-block;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: pink;
+}
+
+ul {
+  list-style: none;
+}
